@@ -16,8 +16,12 @@ Realizar a importação e a compilação do projeto.
 # Como utilizar de maneira simples
 ```
 - Instalar o Java
-- Baixar os arquivos compilados que estão na pasta "Arquivos Compilados"
+- Baixar os arquivos compilados que estão na pasta "Arquivos_Compilados"
 - Realizar a execução dos arquivos .jar
 ```
 # Diagrama de classes
-![alt text](https://github.com/matheusvalbert/Compiladores/blob/main/Compilador.png)
+![alt text](https://github.com/matheusvalbert/Compiladores/blob/main/Diagrama_de_classes.png)
+# Compilador
+![alt text](https://github.com/matheusvalbert/Compiladores/blob/main/Compilador_IHC.PNG)
+# Máquina Virtual
+![alt text](https://github.com/matheusvalbert/Compiladores/blob/main/VM_IHC.PNG)
