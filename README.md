@@ -9,5 +9,6 @@ Máquina Virtual: responsável por interpretar o código Assembly gerado.
 Instalar:
 - Java JDK instalado.
 - Apache Netbeans 12.0 ou posterior
+
 Realizar a importação e a compilação do projeto.
 ```
