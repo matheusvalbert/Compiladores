@@ -19,5 +19,5 @@ Realizar a importação e a compilação do projeto.
 - Baixar os arquivos compilados que estão na pasta "Arquivos Compilados"
 - Realizar a execução
 ```
-
+# Diagrama de classes
 ![alt text](https://github.com/matheusvalbert/Compiladores/blob/main/Compilador.png)
